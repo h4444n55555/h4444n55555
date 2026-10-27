@@ -13,12 +13,12 @@ Hi 👋 — I'm Hans, a B.Tech student in AI & Data Engineering at IIT Ropar. I'
 | Project | Focus |
 |---|---|
 | [petct-robust-seg](https://github.com/h4444n55555/petct-robust-seg) | Robust PET/CT segmentation |
+| [Reducing-Hallucinations-in-Whispr](https://github.com/h4444n55555/Reducing-Hallucinations-in-Whispr) | Reducing hallucinations in Whispr |
 | [Multimodal-Analysis-Dashboards](https://github.com/h4444n55555/Multimodal-Analysis-Dashboards) | Dashboards for multimodal data analysis |
 | [AI211-Habitat-Lab-Project](https://github.com/h4444n55555/AI211-Habitat-Lab-Project) | Habitat Lab coursework project |
-| [AI212-Project](https://github.com/h4444n55555/AI212-Project) | AI212 coursework project |
 | [kshetri-industries](https://github.com/h4444n55555/kshetri-industries) | Kshetri Industries company work |
 | [Kshetri_Control_Website](https://github.com/h4444n55555/Kshetri_Control_Website) | Kshetri Control website |
-| [portfolio](https://github.com/h4444n55555/portfolio) | Personal portfolio site |
+| [portfolio](https://github.com/h4444n55555/portfolio) | Personal portfolio site ([live](https://portfolio-lemon-five-45.vercel.app/)) |
 
 ### Collaborations
 
@@ -27,7 +27,6 @@ Projects I've worked on with others, hosted in their repositories:
 | Project | Owner |
 |---|---|
 | [health-screening](https://github.com/hima1323/health-screening) | [hima1323](https://github.com/hima1323) |
-| [dataset-sync](https://github.com/kushagra25aiz0001-design/dataset-sync) | [kushagra25aiz0001-design](https://github.com/kushagra25aiz0001-design) |
 | [RISC-V-Assembler-64bit-](https://github.com/thyravikant/RISC-V-Assembler-64bit-) | [thyravikant](https://github.com/thyravikant) |
 
 ---
