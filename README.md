@@ -13,6 +13,7 @@ Hi 👋 — I'm Hans, a B.Tech student in AI & Data Engineering at IIT Ropar. I'
 | Project | Focus |
 |---|---|
 | [petct-robust-seg](https://github.com/h4444n55555/petct-robust-seg) | Robust PET/CT segmentation |
+| [petct-viewer](https://github.com/h4444n55555/petct-viewer) | PET/CT viewer |
 | [Reducing-Hallucinations-in-Whispr](https://github.com/h4444n55555/Reducing-Hallucinations-in-Whispr) | Reducing hallucinations in Whispr |
 | [Multimodal-Analysis-Dashboards](https://github.com/h4444n55555/Multimodal-Analysis-Dashboards) | Dashboards for multimodal data analysis |
 | [AI211-Habitat-Lab-Project](https://github.com/h4444n55555/AI211-Habitat-Lab-Project) | Habitat Lab coursework project |
