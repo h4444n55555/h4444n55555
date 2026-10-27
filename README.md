@@ -19,7 +19,10 @@ Hi 👋 — I'm Hans, a B.Tech student in AI & Data Engineering at IIT Ropar. I'
 | [AI211-Habitat-Lab-Project](https://github.com/h4444n55555/AI211-Habitat-Lab-Project) | Habitat Lab coursework project |
 | [kshetri-industries](https://github.com/h4444n55555/kshetri-industries) | Kshetri Industries company work |
 | [Kshetri_Control_Website](https://github.com/h4444n55555/Kshetri_Control_Website) | Kshetri Control website |
-| [portfolio](https://github.com/h4444n55555/portfolio) | Personal portfolio site ([live](https://portfolio-lemon-five-45.vercel.app/)) |
+
+### Portfolio
+
+🌐 [View my portfolio](https://portfolio-lemon-five-45.vercel.app/)
 
 ### Collaborations
 
