@@ -2,7 +2,7 @@
 
 ---
 
-Hi 👋 — I'm Hans, a B.Tech student in AI & Data Engineering at IIT Ropar. I'm an ML research enthusiast — I just love doing research, poking around different corners of it rather than sticking to one lane.
+Hi 👋 — I'm Hans, a B.Tech student in AI & Data Engineering at IIT Ropar. I'm an AI research enthusiast, actively exploring the breadth of the field to find where I can contribute most, and I love the process of research itself.
 
 
 
