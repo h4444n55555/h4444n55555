@@ -35,7 +35,7 @@ Projects I've worked on with others, hosted in their repositories:
 ### Tools I work with
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,c,pytorch,react,fastapi,docker,git,vscode,claude" alt="tools" />
+<img src="https://skillicons.dev/icons?i=py,c,sql,pytorch,pandas,react,nextjs,typescript,tailwind,fastapi,mongodb,docker,git,vscode,claude" alt="tools" />
 </div>
 
 ---
